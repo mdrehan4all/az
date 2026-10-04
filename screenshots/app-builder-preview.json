@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Arzoo & Arman — Nikah Invitation",
+      "hasCanvas": false,
+      "bodyTextLen": 824,
+      "bodyTextHash": "2fcd1085d5a8578211c8e5118095a8644087ce946c06662fd725079d1c75ff0a",
+      "bodyTextPrefix": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ In the name of Allah, the",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Arzoo & Arman — Nikah Invitation",
+      "hasCanvas": false,
+      "bodyTextLen": 824,
+      "bodyTextHash": "2fcd1085d5a8578211c8e5118095a8644087ce946c06662fd725079d1c75ff0a",
+      "bodyTextPrefix": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ In the name of Allah, the",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

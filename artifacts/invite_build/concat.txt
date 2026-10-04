@@ -1,0 +1,5 @@
+file '/workspace/artifacts/invite_build/c1.mp4'
+file '/workspace/artifacts/invite_build/c2.mp4'
+file '/workspace/artifacts/invite_build/c3.mp4'
+file '/workspace/artifacts/invite_build/c4.mp4'
+file '/workspace/artifacts/invite_build/c5.mp4'
